@@ -53,8 +53,11 @@
  <br>
 
 <div align="center">
-
-<img align="left" src="https://velog-readme-stats.vercel.app/api?name=swallowed_o0&tag=TIL&color=dark)](https://github.com/eungyeole/velog-readme-stats" width="45%"/>
-<img align="right" src="https://velog-readme-stats.vercel.app/api?name=swallowed_o0&tag=Devlog&color=dark)](https://github.com/eungyeole/velog-readme-stats" width="45%"/>
+<a href="https://velog-readme-stats.vercel.app/api/redirect?name=swallowed_o0&tag=TIL">
+    <img align="left" src="https://velog-readme-stats.vercel.app/api?name=swallowed_o0&tag=TIL&color=dark" width="45%"/>
+</a>
+<a href="https://velog-readme-stats.vercel.app/api/redirect?name=swallowed_o0&tag=Devlog">
+    <img align="right" src="https://velog-readme-stats.vercel.app/api?name=swallowed_o0&tag=Devlog&color=dark" width="45%"/>
+</a>
 
 </div>
