@@ -22,11 +22,9 @@
 <div align="center" >
   
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=swallowedB&show_icons=true&theme=github_dark&hide_border=true&hide_title=false&hide=stars,contribs"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=swallowedB&show_icons=true&theme=github_dark&hide_border=true&hide_title=false&hide=stars,contribs" width="45%" />
 
-<br/>
-
-<div align="center" >
+<div align="center" width="45%" >
     
   ### ⚒ Stack
   <!-- 스택 -->
