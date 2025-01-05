@@ -24,7 +24,8 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=swallowedB&show_icons=true&theme=github_dark&hide_border=true&hide_title=false&hide=stars,contribs" width="45%" />
 
-<div align="center" width="45%" >
+
+
     
   ### ⚒ Stack
   <!-- 스택 -->
@@ -45,7 +46,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
-</div>
+
 </div>
 
  <br>
