@@ -4,9 +4,6 @@
     
   ### Hello, Choi Boa's GitHub
 
-<a href="https://hits.seeyoufarm.com"> 
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FswallowedB%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
-</a>
 <a href="https://velog.io/@swallowed_o0"> 
   <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"> 
 </a>
@@ -30,7 +27,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-29B6F6?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind CSS-26C6DA?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/styled components-EC407A?style=flat-square&logo=styled-components&logoColor=white"/>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
@@ -52,8 +48,8 @@
  <br>
 
 <div align="center">
-<a href="https://velog-readme-stats.vercel.app/api/redirect?name=swallowed_o0&tag=TIL">
-    <img align="left" src="https://velog-readme-stats.vercel.app/api?name=swallowed_o0&tag=TIL&color=dark" width="45%"/>
+<a href="https://velog-readme-stats.vercel.app/api/redirect?name=swallowed_o0&tag=WIL">
+    <img align="left" src="https://velog-readme-stats.vercel.app/api?name=swallowed_o0&tag=WIL&color=dark" width="45%"/>
 </a>
 <a href="https://velog-readme-stats.vercel.app/api/redirect?name=swallowed_o0&tag=Devlog">
     <img align="right" src="https://velog-readme-stats.vercel.app/api?name=swallowed_o0&tag=Devlog&color=dark" width="45%"/>
