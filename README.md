@@ -27,10 +27,31 @@
 </div>
 
  <br>
-
-
  <br>
 
+<!-- 펫 -->
+ <div align="center">
+    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=swallowedB&utm_content=farm">
+        <img
+          src="https://render.gitanimals.org/farms/swallowedB"
+          width="400"
+          height="300"
+        />
+    </a>
+    <a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/714071317917582095/draw"
+        width="400"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
+ </div>
+
+<br>
+ <br>
+
+ <!-- 벨로그 -->
 <div align="center">
 <a href="https://velog-readme-stats.vercel.app/api/redirect?name=swallowed_o0&tag=WIL">
     <img align="left" src="https://velog-readme-stats.vercel.app/api?name=swallowed_o0&tag=WIL&color=dark" width="45%"/>
@@ -40,3 +61,8 @@
 </a>
 
 </div>
+
+<br>
+<br>
+
+
