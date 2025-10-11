@@ -21,7 +21,7 @@
 
   <div align="center">
       
-  <img src='https://skillicons.dev/icons?i=html,css,javascript,ts,react,tailwind,threejs,figma,git,notion,vue,jenkins,firebase,docker&perline=7' alt="stack" />
+  <img src='https://skillicons.dev/icons?i=html,css,javascript,ts,react,tailwind,threejs,figma,git,notion,&perline=5' alt="stack" />
   </div>
 
 </div>
