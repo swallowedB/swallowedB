@@ -4,12 +4,6 @@
     
   ### Hello, Choi Boa's GitHub
 
-<a href="https://velog.io/@swallowed_o0"> 
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"> 
-</a>
-
-<br>
-
 ---
 
 <br>
@@ -21,7 +15,7 @@
 
   <div align="center">
       
-  <img src='https://skillicons.dev/icons?i=html,css,javascript,ts,react,tailwind,threejs,figma,git,notion,&perline=5' alt="stack" />
+  <img src='https://skillicons.dev/icons?i=javascript,ts,react,next,tailwind,jest,threejs,figma,git,notion,&perline=5' alt="stack" />
   </div>
 
 </div>
