@@ -21,18 +21,7 @@
 </div>
 
 <br>
- <br>
-
- <!-- 벨로그 -->
-<div align="center">
-<a href="https://velog-readme-stats.vercel.app/api/redirect?name=swallowed_o0&tag=WIL">
-    <img align="left" src="https://velog-readme-stats.vercel.app/api?name=swallowed_o0&tag=WIL&color=dark" width="45%"/>
-</a>
-<a href="https://velog-readme-stats.vercel.app/api/redirect?name=swallowed_o0&tag=Devlog">
-    <img align="right" src="https://velog-readme-stats.vercel.app/api?name=swallowed_o0&tag=Devlog&color=dark" width="45%"/>
-</a>
-
-</div>
+ <br>>
 
 <br>
 <br>
